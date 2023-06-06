@@ -1,2 +1,2 @@
-# Point-Cloud---SVC
+# Point-Cloud-SVC
 Single View Point Cloud Classification 
